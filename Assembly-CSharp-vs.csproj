@@ -135,6 +135,7 @@
      <Compile Include="Assets\Scripts\ReceptorPathfinding.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
      <Compile Include="Assets\Scripts\TimeScale.cs" />
+     <Compile Include="Assets\Scripts\Transparent.cs" />
      <Compile Include="Assets\Scripts\UIControl.cs" />
      <Compile Include="Assets\Scripts\Wander.cs" />
      <Compile Include="Assets\Scripts\moveGDP_Alt.cs" />
@@ -143,11 +144,10 @@
      <Compile Include="Assets\Scripts\movePhosphate_Alt.cs" />
      <Compile Include="Assets\Scripts\moveT_Reg.cs" />
      <Compile Include="Assets\Scripts\moveT_Reg_Alt.cs" />
+     <Compile Include="Assets\Scripts\moveTowardClosest.cs" />
      <Compile Include="Assets\Scripts\receptorScript.cs" />
      <Compile Include="Assets\Scripts\simpleMovement.cs" />
      <Compile Include="Assets\Scripts\smoothfollowCSharp.cs" />
-     <Compile Include="Assets\Transparent.cs" />
-     <Compile Include="Assets\moveTowardClosest.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\AstarPathfindingProject\Editor\EditorAssets\Materials\Navmesh2.shader" />
