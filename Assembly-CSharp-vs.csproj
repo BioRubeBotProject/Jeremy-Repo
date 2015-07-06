@@ -146,6 +146,7 @@
      <Compile Include="Assets\Scripts\receptorScript.cs" />
      <Compile Include="Assets\Scripts\simpleMovement.cs" />
      <Compile Include="Assets\Scripts\smoothfollowCSharp.cs" />
+     <Compile Include="Assets\Transparent.cs" />
      <Compile Include="Assets\moveTowardClosest.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
